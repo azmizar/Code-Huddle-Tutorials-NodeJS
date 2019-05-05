@@ -1,6 +1,6 @@
 # NodeJS With Typescript (tsc)
 
-> Working sample project on [www-code-huddle.com](https://www.code-huddle.com//#/tutorials/books/nodejs-typescript-tsc/1) for NodeJS with Typescript tutorial.
+> Working sample project on [www-code-huddle.com](http://www.code-huddle.com/#/tutorials/books/nodejs-typescript-tsnode/1) for NodeJS with Typescript tutorial.
 
 ## Setup from scratch
 
@@ -9,6 +9,7 @@
 * `npm init`
 * `npm i --save @types/node`
 * `npm i --save typescript`
+* `npm i --save-dev ts-node-dev`
 
 > The rest of the steps are available at tutorial site.
 
