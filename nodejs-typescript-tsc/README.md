@@ -1,6 +1,6 @@
 # NodeJS With Typescript (tsc)
 
-> Working sample project on [www-code-huddle.com](https://www.code-huddle.com/#/tutorials/books/nodejs-typescript-tsc/1) for NodeJS with Typescript tutorial.
+> Working sample project on [www-code-huddle.com](https://www.code-huddle.com/) for NodeJS with Typescript tutorial.
 
 ## Setup from scratch
 
