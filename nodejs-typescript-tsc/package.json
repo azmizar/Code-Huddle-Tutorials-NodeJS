@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-typescript-tsc",
+  "version": "1.0.0",
+  "description": "NodeJS with Typescript (tsc)",
+  "main": "index.ts",
+  "scripts": {
+    "tsc": "tsc",
+    "build": "tsc && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azmizar/Code-Huddle-Tutorials-NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "tsc",
+    "free",
+    "sample"
+  ],
+  "author": "Azmizar Ujang (info@code-huddle.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/azmizar/Code-Huddle-Tutorials-NodeJS/issues"
+  },
+  "homepage": "https://github.com/azmizar/Code-Huddle-Tutorials-NodeJS#readme",
+  "dependencies": {
+    "@types/node": "^12.0.0",
+    "typescript": "^3.4.5"
+  }
+}
